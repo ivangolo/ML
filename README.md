@@ -1,6 +1,7 @@
-## Tarea 1 de la asignatura Máquinas de Aprendizaje
+# Tarea 1 de la asignatura Máquinas de Aprendizaje
 
-Integrantes: 
+## Integrantes
 
 * Victor Cifuentes Soto
 * Iván González López
+
